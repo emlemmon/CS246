@@ -1,2 +1,1 @@
-Hi, I'm Emily and I'm a programmer.
-Have a great day!
+Now I've changed the text.
